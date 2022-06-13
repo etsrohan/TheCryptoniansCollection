@@ -1,0 +1,10 @@
+{
+    "name": "Vape God",
+    "description": "This is the THIRD NFT made for the channel 'The Cryptonians'",
+    "image": "ipfs://QmbJpQKfttR2pCCRhE24LdundiEs2VWGRFVPEgk8G4GekZ",
+    "properties": {
+        "Vape": "Blue Ice Flavor",
+        "Developer": "Some Dumb Indian Dude",
+        "Health": "Bronchitis"
+    }
+}
