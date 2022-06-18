@@ -1,7 +1,8 @@
 {
     "name": "Vape God",
     "description": "This is the THIRD NFT made for the channel 'The Cryptonians'",
-    "image": "ipfs://QmbJpQKfttR2pCCRhE24LdundiEs2VWGRFVPEgk8G4GekZ",
+    "image": "ipfs://Qma6Wq5orDVZxZxzgGQssGERx6hD46aJ3y5Kj9jtEPD99N/Images/Reso.png",
+    "animation_url": "ipfs://Qma6Wq5orDVZxZxzgGQssGERx6hD46aJ3y5Kj9jtEPD99N/Videos/Reso.mp4",
     "properties": {
         "Vape": "Blue Ice Flavor",
         "Developer": "Some Dumb Indian Dude",

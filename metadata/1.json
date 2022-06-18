@@ -1,7 +1,8 @@
 {
     "name": "TheCryptoniansLOGO",
     "description": "This is the FIRST NFT made for the channel 'The Cryptonians'",
-    "image": "ipfs://QmT4r47f8B2S6a9wRgnHCTPh7usdXK54u3q9MqbdZrh6wd",
+    "image": "ipfs://Qma6Wq5orDVZxZxzgGQssGERx6hD46aJ3y5Kj9jtEPD99N/Images/Cryptonians.png",
+    "animation_url": "ipfs://Qma6Wq5orDVZxZxzgGQssGERx6hD46aJ3y5Kj9jtEPD99N/Videos/Cryptonians.mp4",
     "properties": {
         "Idiot": "Cuds' Stupid Face",
         "Developer": "Some Dumb Indian Dude",

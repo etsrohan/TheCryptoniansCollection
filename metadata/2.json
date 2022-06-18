@@ -1,7 +1,8 @@
 {
     "name": "Zuberman",
     "description": "This is the SECOND NFT made for the channel 'The Cryptonians'",
-    "image": "ipfs://QmRPUwXrkye2rVKGoZUYRo2Hy7tdQkDyGrHszQBCxsH89f",
+    "image": "ipfs://Qma6Wq5orDVZxZxzgGQssGERx6hD46aJ3y5Kj9jtEPD99N/Images/Cuds.png",
+    "animation_url": "ipfs://Qma6Wq5orDVZxZxzgGQssGERx6hD46aJ3y5Kj9jtEPD99N/Videos/Cuds.mp4",
     "properties": {
         "Fly": "Zuberman Fly",
         "Suit": "Arabic Burka",
