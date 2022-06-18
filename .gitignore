@@ -6,3 +6,4 @@ artifacts
 dist
 coverage
 yarn-error.log
+images
